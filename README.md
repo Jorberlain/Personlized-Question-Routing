@@ -12,7 +12,7 @@ _Parameters_:
 
 
 ## Run
-Run NeRank by the following command:
+Run by the following command:
 ```
 $ ./run.sh 
 ```
